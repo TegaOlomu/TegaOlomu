@@ -35,7 +35,7 @@ I'm a cyber nerd who loves digging into attacks, defending networks, and automat
 
 ## 📄 Resume (a.k.a. My Official Brag Sheet)
 
-📥 [Click here to view/download](https://drive.google.com/file/d/1y1dQ0V-GELY8KnWqGTWKAcjvvfeESsNn/view?usp=sharing)  
+📥 [Click here to view/download](https://drive.google.com/file/d/1QHHfkRb14fSo5XptnvyAgtPwZCCJns7Y/view?usp=sharing)  
 (Yes, it's a PDF. No, it's not 10 pages long.)
 
 ---
