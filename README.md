@@ -27,7 +27,10 @@ I'm a cyber nerd who loves digging into attacks, defending networks, and automat
 
 - ⚙️ **SOC Analysis** — Queries, alerts, and "why is this log so weird?" moments  
   [🔍 Check it out](https://docs.google.com/document/d/1HmLHSrsswtHQDeUu549dVH2-WRR-29fgmo5iOn0ZW14/edit?usp=sharing)
-
+- 🧪 **Simple Network Lab** — Simulating small-scale enterprise networks using Cisco Packet Tracer to understand routing, switching, and segmentation
+[🔍 Check it out](https://drive.google.com/file/d/1GI7JK-oCBBmSZzTBrnhlv_UrjSEs_j0V/view?usp=drive_link) 
+- 🕵️ **Threat Intelligence Analysis** — Mapping adversaries, profiling threat groups, and exposing digital footprints using OSINT and the MITRE ATT&CK framework
+[🔍 Check it out](https://docs.google.com/document/d/15RnqvO4-ugUZYNMH6dnAtOFdOAKZnY7i/edit?usp=drive_link&ouid=109840176338464903175&rtpof=true&sd=true)
 ---
 
 ## 📄 Resume (a.k.a. My Official Brag Sheet)
