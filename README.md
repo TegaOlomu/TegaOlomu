@@ -18,8 +18,8 @@ I'm a cyber nerd who loves digging into attacks, defending networks, and automat
 
 | Red-ish Stuff         | Blue-ish Stuff          |
 |-----------------------|-------------------------|
-| Nmap, Kali, Hydra            | Splunk, Wireshark       |
-| Medusa, Metasploit, OSINT    | Suricata, Snort, Wazuh  |
+| Nmap, Kali, Hydra, Metasploit Framework, Nikto            | Splunk, Wireshark, AlienVault       |
+| Medusa, Metasploit, OSINT, TheHarvester, John the Ripper    | Suricata, Snort, Wazuh  |
 
 ---
 
@@ -31,6 +31,8 @@ I'm a cyber nerd who loves digging into attacks, defending networks, and automat
 [🔍 Check it out](https://drive.google.com/file/d/1GI7JK-oCBBmSZzTBrnhlv_UrjSEs_j0V/view?usp=drive_link) 
 - 🕵️ **Threat Intelligence Analysis** — Mapping adversaries, profiling threat groups, and exposing digital footprints using OSINT and the MITRE ATT&CK framework
 [🔍 Check it out](https://docs.google.com/document/d/15RnqvO4-ugUZYNMH6dnAtOFdOAKZnY7i/edit?usp=drive_link&ouid=109840176338464903175&rtpof=true&sd=true)
+- 💥**Penetration Testing** — Simulating an internal penetration test an organization's infrastructure to identify, exploit, and report security vulnerabilities in a controlled, authorized environment
+[🔍 Check it out](https://drive.google.com/file/d/1bpzBmXsXTkm4O3eRFWLMjr3iBE90TLl3/view?usp=drive_link)
 ---
 
 ## 📄 Resume (a.k.a. My Official Brag Sheet)
