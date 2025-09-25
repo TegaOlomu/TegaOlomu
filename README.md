@@ -33,6 +33,8 @@ I'm a cyber nerd who loves digging into attacks, defending networks, making risk
 [🔍 Check it out](https://docs.google.com/document/d/15RnqvO4-ugUZYNMH6dnAtOFdOAKZnY7i/edit?usp=drive_link&ouid=109840176338464903175&rtpof=true&sd=true)
 - 💥**Penetration Testing** — Simulating an internal penetration test an organization's infrastructure to identify, exploit, and report security vulnerabilities in a controlled, authorized environment
 [🔍 Check it out](https://drive.google.com/file/d/1bpzBmXsXTkm4O3eRFWLMjr3iBE90TLl3/view?usp=drive_link)
+- 📋 **Security Policy Standardization** — unifying the organization's security policies under a NIST- and regulation–aligned framework with centralised governance, standardised risk and reporting methods, comprehensive training, and validated compliance with the regulatory requirements
+[🔍 Check it out](https://drive.google.com/file/d/1P43d6psHNpB6mW0fRT60yTiSH2UwG3pH/view?usp=sharing)
 ---
 
 ## 📄 Resume (a.k.a. My Official Brag Sheet)
