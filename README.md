@@ -1,7 +1,7 @@
-# 😎 Hello Hello! I'm Tega — Cybersecurity Analyst + All-Around Tech Tinkerer 🔐💻
+# 😎 Hello Hello! I'm Tega — Cybersecurity Analyst + GRC Enthusiast +  All-Around Tech Tinkerer 🔐💻
 
-Welcome to my GitHub — where you'll find security scripts, home lab chaos, and digital defense experiments gone (mostly) right.  
-I'm a cyber nerd who loves digging into attacks, defending networks, and automating the boring stuff so I can break... I mean *test* things. 🧪🔥
+Welcome to my GitHub — where you'll find security scripts, governance experiments, home lab chaos, and digital defense experiments gone (mostly) right.  
+I'm a cyber nerd who loves digging into attacks, defending networks, making risk and compliance a little less scary and automating the boring stuff so I can break... I mean *test* things. 🧪🔥
 
 ---
 
@@ -9,8 +9,8 @@ I'm a cyber nerd who loves digging into attacks, defending networks, and automat
 
 - 🔍 Hunt threats like they're easter eggs
 - 💥 Simulate attacks (safely, I promise)
-- 🛡️ Build detections & monitor logs like a cyber gremlin
-- 📚 Constantly Googling stuff I *should* know already
+- 🛡️ Build detections, monitor logs, and enforce controls like a cyber gremlin
+- 📚 Map policies to regulations and frameworks to keep systems audit-ready
 
 ---
 
@@ -37,7 +37,7 @@ I'm a cyber nerd who loves digging into attacks, defending networks, and automat
 
 ## 📄 Resume (a.k.a. My Official Brag Sheet)
 
-📥 [Click here to view/download](https://drive.google.com/file/d/1QHHfkRb14fSo5XptnvyAgtPwZCCJns7Y/view?usp=sharing)  
+📥 [Click here to view/download](https://drive.google.com/file/d/1KVYrnewsfgAYKqZx_h4emvAJaVyWgMV4/view?usp=sharing)  
 (Yes, it's a PDF. No, it's not 10 pages long.)
 
 ---
