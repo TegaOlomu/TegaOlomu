@@ -24,9 +24,10 @@ I'm a cyber nerd who loves digging into attacks, defending networks, making risk
 ---
 
 ## 🚧 Cool Things I'm Building (or Breaking)
-
-- 📋 **Security Policy Standardization** — unifying the organization's security policies under a NIST- and regulation–aligned framework with centralised governance, standardised risk and reporting methods, comprehensive training, and validated compliance with the regulatory requirements
-[🔍 Check it out](https://drive.google.com/file/d/1P43d6psHNpB6mW0fRT60yTiSH2UwG3pH/view?usp=sharing)
+- 📂 **Developing and Implementing a Security Awareness & Training Program** — Baseline phishing assessment, Quick Win training plan, compliance framework, risk heat maps, ROI models, dashboards & a 90-day roadmap.  
+[🔍 Check it out](https://drive.google.com/drive/folders/1iotk2DXqJ3_w18i359rSd-tv6FdWAYhd?usp=sharing)
+- 📋 **Security Policy Standardization** — Unifying the organization's security policies under a NIST- and regulation–aligned framework with centralised governance, standardised risk and reporting methods, comprehensive training, and validated compliance with the regulatory requirements
+[🔍 Check it out](https://drive.google.com/drive/folders/1utreSlUGdBgeEC3TpWQsfctpWaeHC0xA?usp=sharing)
 - ⚙️ **SOC Analysis** — Queries, alerts, and "why is this log so weird?" moments  
   [🔍 Check it out](https://docs.google.com/document/d/1HmLHSrsswtHQDeUu549dVH2-WRR-29fgmo5iOn0ZW14/edit?usp=sharing)
 - 🧪 **Simple Network Lab** — Simulating small-scale enterprise networks using Cisco Packet Tracer to understand routing, switching, and segmentation
