@@ -24,7 +24,9 @@ I'm a cyber nerd who loves digging into attacks, defending networks, making risk
 ---
 
 ## 🚧 Cool Things I'm Building (or Breaking)
-- 📂 **Developing and Implementing a Security Awareness & Training Program** — Baseline phishing assessment, Quick Win training plan, compliance framework, risk heat maps, ROI models, dashboards & a 90-day roadmap.  
+- 📦 **Identifying and Classifying All IT and Non-IT Assets - Asset Inventory Management & Vulnerability Assessment in Retail** — An Integrated Asset Management & Compliance Program
+[🔍 Check it out](https://drive.google.com/drive/folders/1ylOr1QbuiGVs8vL2BOzI367SylrKf-Hs?usp=sharing)
+- 📂 **Developing and Implementing a Security Awareness & Training Program** — Baseline phishing assessment, Quick Win training plan, compliance framework, risk heat maps, ROI models, dashboards & a 90-day roadmap
 [🔍 Check it out](https://drive.google.com/drive/folders/1iotk2DXqJ3_w18i359rSd-tv6FdWAYhd?usp=sharing)
 - 📋 **Security Policy Standardization** — Unifying the organization's security policies under a NIST- and regulation–aligned framework with centralised governance, standardised risk and reporting methods, comprehensive training, and validated compliance with the regulatory requirements
 [🔍 Check it out](https://drive.google.com/drive/folders/1utreSlUGdBgeEC3TpWQsfctpWaeHC0xA?usp=sharing)
