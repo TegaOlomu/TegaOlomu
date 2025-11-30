@@ -24,6 +24,8 @@ I'm a cyber nerd who loves digging into attacks, defending networks, making risk
 ---
 
 ## 🚧 Cool Things I'm Building (or Breaking)
+- 📋 **ISO 27001 Implementation Journey** — Transforming a rapidly growing UK payment processor from startup security practices to enterprise-grade information security management, achieving ISO 27001 certification
+[🔍 Check it out](https://drive.google.com/drive/folders/1_NZujVhXumenRw4JfMUDb2XMNj6juDBd?usp=drive_link)
 - 📦 **Identifying and Classifying All IT and Non-IT Assets - Asset Inventory Management & Vulnerability Assessment in Retail** — An Integrated Asset Management & Compliance Program
 [🔍 Check it out](https://drive.google.com/drive/folders/1ylOr1QbuiGVs8vL2BOzI367SylrKf-Hs?usp=sharing)
 - 📂 **Developing and Implementing a Security Awareness & Training Program** — Baseline phishing assessment, Quick Win training plan, compliance framework, risk heat maps, ROI models, dashboards & a 90-day roadmap
